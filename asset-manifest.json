@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/3D-Toy-Galley/static/css/main.9105212c.chunk.css",
+    "main.js": "/3D-Toy-Galley/static/js/main.c37cfca4.chunk.js",
+    "main.js.map": "/3D-Toy-Galley/static/js/main.c37cfca4.chunk.js.map",
+    "runtime-main.js": "/3D-Toy-Galley/static/js/runtime-main.ec075c57.js",
+    "runtime-main.js.map": "/3D-Toy-Galley/static/js/runtime-main.ec075c57.js.map",
+    "static/css/2.150d169a.chunk.css": "/3D-Toy-Galley/static/css/2.150d169a.chunk.css",
+    "static/js/2.7493cd94.chunk.js": "/3D-Toy-Galley/static/js/2.7493cd94.chunk.js",
+    "static/js/2.7493cd94.chunk.js.map": "/3D-Toy-Galley/static/js/2.7493cd94.chunk.js.map",
+    "static/js/3.583e21fc.chunk.js": "/3D-Toy-Galley/static/js/3.583e21fc.chunk.js",
+    "static/js/3.583e21fc.chunk.js.map": "/3D-Toy-Galley/static/js/3.583e21fc.chunk.js.map",
+    "index.html": "/3D-Toy-Galley/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/3D-Toy-Galley/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9105212c.chunk.css.map": "/3D-Toy-Galley/static/css/main.9105212c.chunk.css.map",
+    "static/js/2.7493cd94.chunk.js.LICENSE.txt": "/3D-Toy-Galley/static/js/2.7493cd94.chunk.js.LICENSE.txt",
+    "static/media/redo.39159fd8.svg": "/3D-Toy-Galley/static/media/redo.39159fd8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec075c57.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7493cd94.chunk.js",
+    "static/css/main.9105212c.chunk.css",
+    "static/js/main.c37cfca4.chunk.js"
+  ]
+}
