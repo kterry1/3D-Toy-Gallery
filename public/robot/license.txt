@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota AE86 Black Limited Kouki
+* source:	https://sketchfab.com/3d-models/toyota-ae86-black-limited-kouki-80854ba302034431b517f523db328129
+* author:	d2epetto (https://sketchfab.com/d2epetto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota AE86 Black Limited Kouki" (https://sketchfab.com/3d-models/toyota-ae86-black-limited-kouki-80854ba302034431b517f523db328129) by d2epetto (https://sketchfab.com/d2epetto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
